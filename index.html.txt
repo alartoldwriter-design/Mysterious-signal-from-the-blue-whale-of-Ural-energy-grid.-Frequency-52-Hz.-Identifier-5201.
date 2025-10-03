@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <title>КИТ 5201</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>КИТ 5201</h1>
+    <blockquote>«Он поёт на частоте, которую слышат только те, кто знает, где искать.»</blockquote>
+
+    <hr>
+
+    <h2>СИГНАЛ ПРИНЯТ</h2>
+    <p>Частота: <strong>52 Гц</strong><br>
+    Идентификатор: <strong>5201</strong><br>
+    Статус: <strong>Активен</strong></p>
+
+    <p>Этот кит не существует в океане.<br>
+    Он — в проводах.<br>
+    Он — в напряжении.<br>
+    Он — в каждом включённом свете на Урале.</p>
+
+    <hr>
+
+    <h2>ДЕКОДИРУЙ</h2>
+    <p>Сигнал содержит скрытое сообщение.<br>
+    Проверь файл <a href="signal_52hz.txt">signal_52hz.txt</a>.<br>
+    Ключ — простое число.</p>
+
+    <blockquote>Подсказка: 5201 — не просто номер. Это <strong>простое число</strong>.<br>
+    Используй его как ключ.</blockquote>
+
+    <hr>
+
+    <h2>КООРДИНАТЫ ИСТОЧНИКА</h2>
+    <p>См. <a href="map_coordinates.txt">map_coordinates.txt</a><br>
+    (Там — не просто цифры. Там — начало.)</p>
+
+    <hr>
+
+    <blockquote>
+        <strong>P, S</strong><br>
+        Мы — не те, кто ищет славы.<br>
+        Мы — те, кто держит тьму на расстоянии.<br><br>
+        <strong>Россети Урал</strong><br>
+        Энергия, которую вы не замечаете — пока она есть.
+    </blockquote>
+</body>
+</html>
